@@ -24,7 +24,15 @@ Built with **HTML, CSS, and JavaScript**, featuring a **responsive design** and 
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots here later)*
+
+### Light Mode
+![Currency Converter Light Mode](images/screenshot.png)
+
+### Dark Mode
+![Currency Converter Dark Mode](images/dark-screenshot.png)
+
+### Demo GIF
+![Currency Converter Demo](images/demo.gif)
 
 ---
 
